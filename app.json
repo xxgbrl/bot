@@ -1,0 +1,12 @@
+{
+  "name": "xxgbrl",
+  "description": "bot whatsapp by xxgbrl",
+  "repository": "https://github.com/xxgbrl",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
