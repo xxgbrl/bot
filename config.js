@@ -190,13 +190,13 @@ global.rpg = {
 
 
 /*============= WEB API KEY =============*/
-global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
-global.org = 'org-fMsB6BHk5n7N3Zyx8iIySrEg'  //openAI Organization name
+global.openai = 'YOUR_API_HERE'  //api key bisa didapatkan dari https://openai.com/api/
+global.org = 'YOUR_API_HERE'  //openAI Organization name
 global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
-global.lankey = 'FBxfocLE' //buy API at https://api.betabotz.org/
-global.botcahx = 'aaZr9c7z' //https://api.botcahx.live/
-global.uptime = 'u1991340-ca1512647571ed69f21e4149' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
-global.xzn = 'xxgbrl' //daftar sendiri jika key habis https://xzn.wtf/
+global.lankey = 'YOUR_API_HERE' //buy API at https://api.betabotz.org/
+global.botcahx = 'YOUR_API_HERE' //https://api.botcahx.live/
+global.uptime = 'YOUR_API_HERE' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
+global.xzn = 'YOUR_API_HERE' //daftar sendiri jika key habis https://xzn.wtf/
 
 global.APIs = {
   // name: 'https://website'
