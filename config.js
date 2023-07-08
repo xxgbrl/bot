@@ -32,11 +32,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [[6285156980508', 'gabriel.dim', true]]
+global.owner = [['6285156980508', 'gabriel.dim', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = 6285174242558'
-global.nomorown = 6285156980508'
+global.nomorbot = '6285174242558'
+global.nomorown = '6285156980508'
 global.nomorwa = '0'
 
 
@@ -190,7 +190,7 @@ global.rpg = {
 
 
 /*============= WEB API KEY =============*/
-global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = 'org-fMsB6BHk5n7N3Zyx8iIySrEg'  //openAI Organization name
 global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
 global.lankey = 'FBxfocLE' //buy API at https://api.betabotz.org/
