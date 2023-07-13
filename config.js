@@ -197,6 +197,7 @@ global.lankey = 'YOUR_API_HERE' //buy API at https://api.betabotz.org/
 global.botcahx = 'YOUR_API_HERE' //https://api.botcahx.live/
 global.uptime = 'YOUR_API_HERE' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
 global.xzn = 'YOUR_API_HERE' //daftar sendiri jika key habis https://xzn.wtf/
+global.xyro = 'YOUR_APIKEY_HERE' //https://api.xyroinee.xyz/
 
 global.APIs = {
   // name: 'https://website'
